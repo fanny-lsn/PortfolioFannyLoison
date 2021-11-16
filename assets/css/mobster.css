@@ -134,7 +134,7 @@ hr {
 }
 
 .bg-secondary {
-  background-color: #A52EFF !important;
+  background-color: #873845 !important;
 }
 
 .bg-success {
@@ -179,7 +179,7 @@ hr {
 }
 
 .fg-secondary {
-  color: #A52EFF !important;
+  color: #873845 !important;
 }
 
 .fg-success {
@@ -1144,11 +1144,11 @@ hr {
   width: 100%;
   height: 100%;
   text-align: center;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .img-place > img {
-  width: 100%;
+  width: 150%;
   height: 100%;
 }
 
